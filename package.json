@@ -1,6 +1,6 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Hawk",
+  "description": "Official Bot - La locanda",
   "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
